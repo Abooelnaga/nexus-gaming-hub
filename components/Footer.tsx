@@ -55,7 +55,7 @@ const Footer: React.FC = () => {
           <p className="text-gray-600 text-sm">© 2024 Nexus Gaming Hub. All rights reserved.</p>
           <div className="flex items-center gap-2 text-gray-600 text-sm">
              <span className="w-2 h-2 bg-green-500 rounded-full"></span>
-             Mohamed Aboelnaga
+             Systems Operational
           </div>
         </div>
       </div>
